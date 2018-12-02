@@ -14,7 +14,7 @@ Each project is grouped by category. Click the project link to view the project 
 	* **Project purpose**: To answer the question: are people that talk about fitness happier than people that talk about media (tv, movies, youtube, etc.)?
 	* **Project scope**: data collection, cleaning, sentiment and statistical analysis, and presentation.
 	* **Info**: Twitter data is collected using REST and Stream APIs, then cleaned, organized, and (sentiment) analyzed. Sentiment analysis is performed using Natural Language Toolkit VADER Sentiment Analysis. All of this is done in Python. Statistical analysis performed in R. 
-	* **Other**: [Twitter Sentiment Analyzer](https://github.com/ebolotin6/Twitter_Sentiment_Analyzer/) is the standalone program created to perform sentiment analysis on Twitter data.
+	* **Other**: <a href="https://github.com/ebolotin6/Twitter_Sentiment_Analyzer/" target="_blank"><strong>Twitter Sentiment Analyzer</strong></a> is the standalone program created to perform sentiment analysis on Twitter data.
 
 ### Imputation & Predictive Modeling --
 <!-- 1. [**Fargo Health Group Case**](https://github.com/ebolotin6/Fargo_Health_Group_Case/) -->

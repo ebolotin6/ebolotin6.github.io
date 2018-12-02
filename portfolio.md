@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Each project is grouped by category. Click the project link to view the project repo (where you will find a viewing instructions). If you have any questions, please email me at [here](mailto:eli@ebolotin.com).
+Each project is grouped by category. Click the project link to view the project repo (where you will find a viewing instructions). If you have any questions, please email me at [here](mailto:ebolotin6.git@gmail.com).
 
 ## Projects
 

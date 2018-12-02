@@ -25,6 +25,8 @@ Each project is grouped by category. Click the project link to view the project 
 
 ### Machine Learning & Deep Learning -- 
 
+* *In development*
+
 ### Scripts and code --
 <!-- * **Data cleaning and analysis (Amazon Reviews)**: [part 1: Python](https://github.com/ebolotin6/UW_Assignments/blob/master/assignment_11/assignment11_python.ipynb), [part 2: R](https://github.com/ebolotin6/UW_Assignments/blob/master/assignment_11/assignment11_R.pdf) -->
 * **Data cleaning and analysis (Amazon Reviews)**: <a href="https://github.com/ebolotin6/UW_Assignments/blob/master/assignment_11/assignment11_python.ipynb" target="_blank">part 1: Python</a>, <a href="https://github.com/ebolotin6/UW_Assignments/blob/master/assignment_11/assignment11_R.pdf" target="_blank">part 2: R</a>

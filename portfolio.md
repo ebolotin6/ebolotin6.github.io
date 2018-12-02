@@ -16,14 +16,14 @@ Each project is grouped by category. Click the project link to view the project 
 	* **Info**: Twitter data is collected using REST and Stream APIs, then cleaned, organized, and (sentiment) analyzed. Sentiment analysis is performed using Natural Language Toolkit VADER Sentiment Analysis. All of this is done in Python. Statistical analysis performed in R. 
 	* **Other**: [Twitter Sentiment Analyzer](https://github.com/ebolotin6/Twitter_Sentiment_Analyzer/) is the standalone program created to perform sentiment analysis on Twitter data.
 
-### Imputation and Predictive Modeling --
+### Imputation & Predictive Modeling --
 <!-- 1. [**Fargo Health Group Case**](https://github.com/ebolotin6/Fargo_Health_Group_Case/) -->
 1. <a href="https://github.com/ebolotin6/Fargo_Health_Group_Case/" target="_blank"><strong>Fargo Health Group Case</strong></a>
 	* **Project purpose**: To demonstrate imputation and predictive modeling for a business case.
 	* **Project scope**: data cleaning, imputation, model creation, statistical analysis, and presentation.
 	* **Info**: The Fargo Health Group (FHG) Case is a Harvard Business Review case. The goal of the case is to create a predictive model to forecast medical examinations for a health organization (FHG). See the project readme for more details and viewing instructions.
 
-### Machine Learning & Deep Learning -- 
+### Machine & Deep Learning -- 
 
 * *In development*
 

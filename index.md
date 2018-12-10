@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 ---
 
-### Navigate over to the [portfolio](../portfolio/) page to check out my projects.
+### Navigate to the [portfolio](../portfolio/) page to check out my projects.
 
 ## Updates
 

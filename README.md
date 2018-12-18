@@ -4,4 +4,4 @@
 
 Data Science Portfolio of Eli Bolotin
 
-Copyright 2018 Eli Bolotin, All Rights Reserved.
+Copyright 2018 Eli Bolotin

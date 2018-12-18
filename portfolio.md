@@ -57,4 +57,4 @@ Each project is grouped by category. Click the project link to view the project 
 	* **Info**: This project is to demonstrate the efficiency of comparable code.
 
 <br /><br />
-Copyright 2018 Eli Bolotin, All Rights Reserved.
+Copyright 2018 Eli Bolotin

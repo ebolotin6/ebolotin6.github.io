@@ -23,7 +23,11 @@ Each project is grouped by category. Click the project link to view the project 
 
 ### Machine & Deep Learning -- 
 
-* *In development*
+* *Section in development*
+
+### Hadoop MapReduce -- 
+
+* *Section in development*
 
 ### Scripts and code --
 * **Data cleaning and analysis (Amazon Reviews)**: <a href="https://github.com/ebolotin6/UW_Assignments/blob/master/assignment_11/assignment11_python.ipynb" target="_blank">part 1: Python</a>, <a href="https://github.com/ebolotin6/UW_Assignments/blob/master/assignment_11/assignment11_R.pdf" target="_blank">part 2: R</a>

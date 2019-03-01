@@ -3,4 +3,4 @@ layout: home
 title: Welcome
 ---
 
-# Portfolio page currently offline for updates.
+## Portfolio page currently offline for updates.

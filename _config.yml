@@ -2,12 +2,12 @@ title: "Data Science Portfolio: Eli Bolotin"
 author: Eli Bolotin
 email: ebolotin6.git@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Data science, ML, Statistics, Code
+  Data Science, Deep Learning, ML, Statistics, Code
 header_pages:
-  - portfolio.md
-  # - about.md
+  - projects.md
+  - about.md
 # social links
-twitter_username: datasventures
+twitter_username: LuminiCentauri
 github_username:  ebolotin6
 # rss: rss
 # dribbble_username: jekyll

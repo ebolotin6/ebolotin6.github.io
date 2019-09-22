@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Resume/CV
 permalink: /resume/
 ---
 

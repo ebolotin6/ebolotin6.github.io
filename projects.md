@@ -9,7 +9,7 @@ permalink: /projects/
 ___
 
 
-#### <a href="https://github.com/ebolotin6/kaggle-ml/tree/master/intel-image-classification_project" target="_blank"><strong>Object detection: understanding clouds from satellite Images</strong></a> (Fall 2019)
+#### <a href="#"><strong>Object detection: understanding clouds from satellite Images</strong></a> (Fall 2019)
 * **Description**: The goal of this project is to predict the presence of specific cloud types in satellite images. However, this is not a standard object detection challenge because each image may contain multiple labels and multiple classes *that are overlapping*. That is, one training image may have an area that is labeled as 2 or more distinct classes. So this is the main challenge: how to deal with overlapping labels for objects that have indefinite shapes (like clouds).
 * **Dataset**: Data is from <a href="https://www.kaggle.com/c/understanding_cloud_organization/overview" target="_blank">this kaggle competition</a>. Dataset consists of ~9,300 unique photos. 5,600 in training, 3,700 in test.
 * **ML methods**: Convolutional neural network written in Python + Keras + Tensorflow. Trained on GPU on Kaggle.

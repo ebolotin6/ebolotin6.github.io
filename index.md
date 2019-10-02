@@ -3,6 +3,4 @@ layout: home
 title: Welcome
 ---
 
-## Portfolio live
-
-Next updates will be made in middle of November.
+## <a href="https://ebolotin.com/projects/" target="_self">See portfolio here</a>

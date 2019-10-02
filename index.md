@@ -3,4 +3,6 @@ layout: home
 title: Welcome
 ---
 
-## Portfolio currently offline for updates.
+## Portfolio live
+
+Next updates will be made in middle of November.

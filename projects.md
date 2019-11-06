@@ -5,9 +5,14 @@ show-title: true
 permalink: /projects/
 ---
 
+### Reinforcement Learning
+___
+* **Description**: I'm studying deep RL (RL + neural networks). More specifically, I'm currently researching the <a href="https://github.com/mila-iqia/babyai/tree/iclr19" target="_blank">BabyAI platform</a> (see <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">paper</a> here), imitation learning, and grounded language learning with DL. This platform is a testbed for improving the sample efficiency of deep RL algorithms with the goal of making dramatic advances in grounded language learning.
+* **Results** I've reproduced the sample efficiency results posted in Table 3 of the <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">BabyAI</a> paper for imitation learning from bot.
+<br /><br />
+
 ### Deep Learning
 ___
-
 
 #### <a href="#"><strong>Object detection: understanding clouds from satellite Images</strong></a> (Fall 2019)
 * **Description**: The goal of this project is to predict the presence of specific cloud types in satellite images. However, this is not a standard object detection challenge because each image may contain multiple labels and multiple classes *that are overlapping*. That is, one training image may have an area that is labeled as 2 or more distinct classes. So this is the main challenge: how to deal with overlapping labels for objects that have indefinite shapes (like clouds).

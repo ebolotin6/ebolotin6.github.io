@@ -4,7 +4,7 @@ email: ebolotin6.git@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   Data Science, Deep Learning, ML, Statistics, Code
 header_pages:
-  - projects.md
+  # - projects.md
   # - resume.md
 # social links
 twitter_username: LuminiCentauri

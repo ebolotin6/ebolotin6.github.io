@@ -7,7 +7,7 @@ permalink: /portfolio/
 
 ## Currently studying
 
-The following section contains topics and areas that I am actively researching and working on.
+The following section contains topics and areas that I am actively researching.
 
 <h4 class="subheading">Deep reinforcement learning</h4>
 * Researching the <a href="https://github.com/mila-iqia/babyai/tree/iclr19" target="_blank">BabyAI platform</a> (see <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">paper</a> here), imitation learning, and grounded language learning with DL. This platform is a testbed for improving the sample efficiency of deep RL algorithms with the goal of making dramatic advances in grounded language learning.
@@ -18,24 +18,10 @@ The following section contains topics and areas that I am actively researching a
 * Sequence to sequence RNN models for machine translation (pytorch)
 * Attention cells (LSTM and GRU)
 * Autoencoders
-<br /><br />
 
 ## Projects
 
-The following section contains my completed projects (organized by topic/area of data science).
-
-### Optimization
----
-
-#### <a href="https://github.com/ebolotin6/DS775/blob/master/project_3/Project_3_Report.ipynb" target="_blank"><strong>Simulation and Decision Analysis</strong></a> (Fall 2019)
-* **Description**: The objective of this project is to perform simulation and decision analysis to determine the best decision (among a set of alternatives) for a given business scenario.
-* **Packages/languages**: Python and ORtools (Google library)
-
-#### <a href="https://github.com/ebolotin6/DS775/blob/master/project_2/Project_02_Homework/Project_2_Report.ipynb" target="_blank"><strong>Hyperparameter tuning with Scikit</strong></a> (Fall 2019)
-* **Description**: The objective of this project is to determine the optimal hyperparameters for 2 models: RandomForest regressor and XGBoost classifier. Hyperparameter tuning is performed with 4 methods: GridSearchCV, RandomSearchCV, BayesianOptimization, and TPOT.
-* **Dataset**: Sklearn diabetes dataset.
-* **Packages/languages**: Python and Scikit-learn (sklearn)
-<br /><br />
+The following section contains my (mostly completed) projects, organized by topic/area of data science.
 
 ### Deep Learning
 ---
@@ -90,6 +76,19 @@ ___
 * **Language**: R
 <br /><br />
 
+### Optimization
+---
+
+#### <a href="https://github.com/ebolotin6/DS775/blob/master/project_3/Project_3_Report.ipynb" target="_blank"><strong>Simulation and Decision Analysis</strong></a> (Fall 2019)
+* **Description**: The objective of this project is to perform simulation and decision analysis to determine the best decision (among a set of alternatives) for a given business scenario.
+* **Packages/languages**: Python and ORtools (Google library)
+
+#### <a href="https://github.com/ebolotin6/DS775/blob/master/project_2/Project_02_Homework/Project_2_Report.ipynb" target="_blank"><strong>Hyperparameter tuning with Scikit</strong></a> (Fall 2019)
+* **Description**: The objective of this project is to determine the optimal hyperparameters for 2 models: RandomForest regressor and XGBoost classifier. Hyperparameter tuning is performed with 4 methods: GridSearchCV, RandomSearchCV, BayesianOptimization, and TPOT.
+* **Dataset**: Sklearn diabetes dataset.
+* **Packages/languages**: Python and Scikit-learn (sklearn)
+<br /><br />
+
 ### Hadoop / Big Data
 ___
 The list below consists of projects that solve big data-related business questions using the Hadoop framework. Languages/software used: Pig, Hive, Spark, Scala, Zeppelin, Python, Java, AWS (EMR, S3, EC2, Athena, Glue). (Spring 2019)
@@ -114,10 +113,11 @@ ___
 
 ### Visualization
 ___
+#### <a href="https://github.com/ebolotin6/DS745/blob/master/project_1/Visualization_Report.pdf" target="_blank"><strong>Visualizing World Bank Data</strong></a> (Fall 2018)
+* **Description**: The objective of this project is to demonstrate the iterative development of visualizations using principles of good design by Edward Tufte.
+* **Languages**: Data cleaned, processed, and plotted in R.
+
 #### <a href="https://github.com/ebolotin6/DS745/blob/master/project_2/Project_2_Bolotin.docx" target="_blank"><strong>Network Analysis of US Airports</strong></a> (Fall 2019)
 * **Description**: This project demonstrates network analysis in R with data of air travel in the United States.
 * **Packages/languages**: R, igraph, statnet
 
-#### <a href="https://github.com/ebolotin6/DS745/blob/master/project_1/Visualization_Report.pdf" target="_blank"><strong>Visualizing World Bank Data</strong></a> (Fall 2018)
-* **Description**: The objective of this project is to demonstrate the iterative development of visualizations using principles of good design by Edward Tufte.
-* **Languages**: Data cleaned, processed, and plotted in R.

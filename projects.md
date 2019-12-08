@@ -47,8 +47,8 @@ The following section contains my (mostly completed) projects, organized by topi
 
 ### Machine Learning
 ___
-#### <a href="https://github.com/ebolotin6/DS740_portfolio/tree/master/final_project" target="_blank"><strong>Classification: predicting whether it will rain tomorrow</strong></a> (Summer 2019)
-* **Description**: The objective of this project is to use non-neural ML methods to predict the occurrence of rain. See executive summary pdf at link above for details (actual project in Final_Project.pdf).
+#### <a href="https://github.com/ebolotin6/DS740_portfolio/blob/master/final_project/Final_Project.pdf" target="_blank"><strong>Classification: predicting whether it will rain tomorrow</strong></a> (Summer 2019)
+* **Description**: The objective of this project is to use non-neural ML methods to predict the occurrence of rain. See executive summary in repo above for high-level details.
 * **Dataset dimensions**: 142k observations x 23 predictors
 * Purpose of this project is predict whether it will rain tomorrow in Australia.
 * **Methods used**: random forest, SVM, LDA (linear discriminant analysis), and a neural network. Recursive feature elimination with random forest used for subset selection.

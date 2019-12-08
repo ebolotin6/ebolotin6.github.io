@@ -7,6 +7,8 @@ permalink: /portfolio/
 
 ## Currently studying
 
+The following section contains topics and areas that I am actively researching and working on.
+
 <h4 class="subheading">Deep reinforcement learning</h4>
 * Researching the <a href="https://github.com/mila-iqia/babyai/tree/iclr19" target="_blank">BabyAI platform</a> (see <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">paper</a> here), imitation learning, and grounded language learning with DL. This platform is a testbed for improving the sample efficiency of deep RL algorithms with the goal of making dramatic advances in grounded language learning.
 * I've reproduced the sample efficiency results posted in Table 3 of the <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">BabyAI</a> paper for imitation learning from bot.
@@ -19,6 +21,8 @@ permalink: /portfolio/
 <br /><br />
 
 ## Projects
+
+The following section contains my completed projects (organized by topic/area of data science).
 
 ### Optimization
 ---

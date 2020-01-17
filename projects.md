@@ -14,10 +14,11 @@ The following section contains topics and areas that I am actively researching.
 * I've reproduced the sample efficiency results posted in Table 3 of the <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">BabyAI</a> paper for imitation learning from bot.
 <br />
 
-<h4 class="subheading">Recurrent Neural Networks</h4>
+<h4 class="subheading">Neural networks</h4>
 * Sequence to sequence RNN models for machine translation (pytorch)
-* Attention cells (LSTM and GRU)
-* Autoencoders
+* Transformers for neural machine translation
+* Prototypical networks for few-shot classification
+* Upcoming: graph neural networks
 
 ## Projects
 

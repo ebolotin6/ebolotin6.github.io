@@ -5,12 +5,35 @@ show-title: false
 permalink: /portfolio/
 ---
 
-## Currently studying
+<h2 class="notopmargin">Recent work</h2>
+---
 
-The following section contains topics and areas that I am actively researching.
+### Deep Learning Specialization
+
+I completed the Deep Learning Specialization from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). 
+
+See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. Some interesting projects that I completed were:
+
+<h4 class="subheading">Convolutional networks</h4>
+* Art generation with neural style transfer
+* Face recognition
+* YOLO for autonomous driving (car detection)
+* Building ResNet (residual network) architecture from scratch
+
+<h4 class="subheading">Recurrent networks</h4>
+* Machine translation
+* Trigger word detection
+* Character level language model
+* Jazz solo with an LSTM network
+* Creating an “emojifier” to make text messages more expressive 
+
+
+<h2 class="topmargin">Research Interests</h2>
+---
+The following section contains topics and areas that I am interested in.
 
 <h4 class="subheading">Deep reinforcement learning</h4>
-* Researching the <a href="https://github.com/mila-iqia/babyai/tree/iclr19" target="_blank">BabyAI platform</a> (see <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">paper</a> here), imitation learning, and grounded language learning with DL. This platform is a testbed for improving the sample efficiency of deep RL algorithms with the goal of making dramatic advances in grounded language learning.
+* The <a href="https://github.com/mila-iqia/babyai/tree/iclr19" target="_blank">BabyAI platform</a> (see <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">paper</a> here), imitation learning, and grounded language learning with DL. The BabyAI platform is a testbed for improving the sample efficiency of deep RL algorithms with the goal of making dramatic advances in grounded language learning.
 * I've reproduced the sample efficiency results posted in Table 3 of the <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">BabyAI</a> paper for imitation learning from bot.
 <br />
 
@@ -20,7 +43,7 @@ The following section contains topics and areas that I am actively researching.
 * Prototypical networks for few-shot classification
 * Upcoming: graph neural networks
 
-## Projects
+<h2 class="topmargin">Projects</h2>
 
 The following section contains my (mostly completed) projects, organized by topic/area of data science.
 

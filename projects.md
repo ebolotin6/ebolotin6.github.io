@@ -8,9 +8,7 @@ permalink: /portfolio/
 <h2 class="notopmargin">Recent work</h2>
 ---
 
-### Deep Learning Specialization
-
-I completed the Deep Learning Specialization from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). 
+I completed the **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). 
 
 See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. Some interesting projects that I completed were:
 

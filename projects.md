@@ -8,9 +8,9 @@ permalink: /portfolio/
 <h2 class="notopmargin">Recent work</h2>
 ---
 
-I completed the **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). 
-
-See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. Some interesting projects that I completed were:
+* Completed course 1 of HSE's <a href="https://www.coursera.org/specializations/aml" target="_blank">Advanced Machine Learning Specialization</a>. Demo notebooks <a href="https://github.com/ebolotin6/HSE_public" target="_blank">here</a>.
+* Completed **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). 
+* See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. Some interesting projects that I completed were:
 
 <h4 class="subheading">Convolutional networks</h4>
 * Art generation with neural style transfer

@@ -1,5 +1,5 @@
 title: "Eli Bolotin Portfolio"
-author: Eli Bolotin
+# author: Eli Bolotin
 email: ebolotin6.git@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   Deep Learning, ML, and Stats
@@ -7,7 +7,6 @@ header_pages:
   # - projects.md
   # - resume.md
 # social links
-twitter_username: LuminiCentauri
 github_username:  ebolotin6
 # rss: rss
 # dribbble_username: jekyll

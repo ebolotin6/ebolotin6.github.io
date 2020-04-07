@@ -10,7 +10,7 @@ permalink: /portfolio/
 
 * Completed course 1 of <a href="https://www.coursera.org/specializations/aml" target="_blank">Advanced Machine Learning Specialization</a> from the Higher School of Economics in Moscow (National Research University). 
 	* Demo notebooks <a href="https://github.com/ebolotin6/HSE_public" target="_blank">here</a> 
-	* Completed with honors: certificate <a href="https://coursera.org/share/7e90c043426d2a68ec5dec6e877c6365" target="_blank">here</a>
+	* Completed with honors: certificate <a href="https://www.coursera.org/account/accomplishments/certificate/YP8PCGTZ249L" target="_blank">here</a>
 * Completed **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). 
 	* See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. Some interesting projects that I completed were:
 

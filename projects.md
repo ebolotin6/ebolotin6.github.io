@@ -5,10 +5,20 @@ show-title: false
 permalink: /portfolio/
 ---
 
-<h2 class="notopmargin">Recent work</h2>
+Hi, FYI this page hasn't been updated for some time! Updates are coming!
+
+<h2 class="notopmargin">Current work</h2>
+* Section being updated
+
+<h2 class="notopmargin">Prior work</h2>
 ---
-* Created GAN in pytorch. Notebook <a href="https://github.com/ebolotin6/nn/blob/master/gan_pytorch.ipynb" target="_blank">here</a>
-* Created fun autoencoder in pytorch. Notebook <a href="https://github.com/ebolotin6/nn/blob/master/autoencoder_pytorch.ipynb" target="_blank">here</a>
+* Completed Master's Thesis on representation learning and face generation with variational autoencoders
+* Created novel VAE architectures (publication pending)
+* Implemented interesting variational autoencoders in Pytorch:
+	* DFC-VAE, Beta-VAE, VAE-GAN, and researched implementing Google's DRAW architecture(Deep Recurrent Attention Writer)
+* Finished a ton of preprocessing/prep work on Caption-from-image generation VAE
+* Practing with GANs in pytorch. Notebook <a href="https://github.com/ebolotin6/nn/blob/master/gan_pytorch.ipynb" target="_blank">here</a>
+* Base autoencoder in pytorch. Notebook <a href="https://github.com/ebolotin6/nn/blob/master/autoencoder_pytorch.ipynb" target="_blank">here</a>
 * Completed course 1 of <a href="https://www.coursera.org/specializations/aml" target="_blank">Advanced Machine Learning Specialization</a> from the Higher School of Economics in Moscow (National Research University). 
 	* Demo notebooks <a href="https://github.com/ebolotin6/HSE_public" target="_blank">here</a> 
 	* Completed with honors: certificate <a href="https://www.coursera.org/account/accomplishments/certificate/YP8PCGTZ249L" target="_blank">here</a>

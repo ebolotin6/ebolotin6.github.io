@@ -13,7 +13,6 @@ Hi, FYI this page hasn't been updated for some time! Updates are coming!
 <h2 class="notopmargin">Prior work</h2>
 ---
 * Completed Master's Thesis on representation learning and face generation with variational autoencoders
-* Created novel VAE architectures (publication pending)
 * Implemented interesting variational autoencoders in Pytorch:
 	* DFC-VAE, Beta-VAE, VAE-GAN, and researched implementing Google's DRAW architecture(Deep Recurrent Attention Writer)
 * Finished a ton of preprocessing/prep work on Caption-from-image generation VAE

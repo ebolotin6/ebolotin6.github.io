@@ -15,9 +15,7 @@ Hi, FYI this page hasn't been updated for some time! Updates are coming!
 * Completed Master's Thesis on representation learning and face generation with variational autoencoders
 * Implemented interesting variational autoencoders in Pytorch:
 	* DFC-VAE, Beta-VAE, VAE-GAN, and researched implementing Google's DRAW architecture(Deep Recurrent Attention Writer)
-* Finished a ton of preprocessing/prep work on Caption-from-image generation recurrent autoencoder
-* Practing with GANs in pytorch. Notebook <a href="https://github.com/ebolotin6/nn/blob/master/gan_pytorch.ipynb" target="_blank">here</a>
-* Base autoencoder in pytorch. Notebook <a href="https://github.com/ebolotin6/nn/blob/master/autoencoder_pytorch.ipynb" target="_blank">here</a>
+* Finished a ton of preprocessing/prep work on Caption-from-image generation recurrent autoencoder.
 * Completed course 1 of <a href="https://www.coursera.org/specializations/aml" target="_blank">Advanced Machine Learning Specialization</a> from the Higher School of Economics in Moscow (National Research University). 
 	* Demo notebooks <a href="https://github.com/ebolotin6/HSE_public" target="_blank">here</a> 
 	* Completed with honors: certificate <a href="https://www.coursera.org/account/accomplishments/certificate/YP8PCGTZ249L" target="_blank">here</a>

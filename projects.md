@@ -5,55 +5,47 @@ show-title: false
 permalink: /portfolio/
 ---
 
-Hi, FYI this page hasn't been updated for some time! Updates are coming!
-
-<h2 class="notopmargin">Current work</h2>
-* Section being updated
+<h2 class="notopmargin">Recent work</h2>
+* Created open-source Python package entitled *SimplyRL* for writing, tuning and benchmarking RL algorithms (to be released publicly in early 2021).
+* Recently: solving and benchmarking <a href="https://gym.openai.com/envs/#classic_control" target="_blank">OpenAI gym classical control</a> problems with deep RL algorithms. All environments involve non-trivial, continuous action-spaces. Tests are being conducted in Python framework named above (*SimplyRL*). Algorithms so-far implemented include: DDPG, A2C, off-policy policy gradient, and others.
+* Created homeworks and labs for introductory course on reinforcement learning.
+* Created 3-wheel robot RL environment which uses 5-dimensional state-space and 2-dimensional action-space.
 
 <h2 class="notopmargin">Prior work</h2>
 ---
-* Completed Master's Thesis on representation learning and face generation with variational autoencoders
-* Implemented interesting variational autoencoders in Pytorch:
-	* DFC-VAE, Beta-VAE, VAE-GAN, and researched implementing Google's DRAW architecture(Deep Recurrent Attention Writer)
-* Finished a ton of preprocessing/prep work on Caption-from-image generation recurrent autoencoder.
+
+* Completed master's thesis on representation learning and face generation with variational autoencoders (VAE).
+* Included custom implementations of *DFC-VAE*, *Beta-VAE*, *VAE-GAN*, and researched implementing Google's DRAW architecture (Deep Recurrent Attention Writer)
+* Developed (in Pytorch):
+	* Sequence to sequence RNN models for machine translation (pytorch)
+	* Transformers for neural machine translation
+	* Prototypical networks for few-shot classification
+
+<h4 class="subheading">Certifications:</h4>
 * Completed course 1 of <a href="https://www.coursera.org/specializations/aml" target="_blank">Advanced Machine Learning Specialization</a> from the Higher School of Economics in Moscow (National Research University). 
 	* Demo notebooks <a href="https://github.com/ebolotin6/HSE_public" target="_blank">here</a> 
 	* Completed with honors: certificate <a href="https://www.coursera.org/account/accomplishments/certificate/YP8PCGTZ249L" target="_blank">here</a>
-* Completed **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). 
-	* See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. Some interesting projects that I completed were:
+* Completed **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. 
 
-<h4 class="subheading">Convolutional networks</h4>
+As part of deep learning specialization, I completed projects on:
+
+<strong>Convolutional networks</strong>
 * Art generation with neural style transfer
 * Face recognition
 * YOLO for autonomous driving (car detection)
 * Building ResNet (residual network) architecture from scratch
 
-<h4 class="subheading">Recurrent networks</h4>
+<strong>Recurrent networks</strong>:
 * Machine translation
 * Trigger word detection
 * Character level language model
 * Jazz solo with an LSTM network
-* Creating an “emojifier” to make text messages more expressive 
+* Creating an “emojifier” to make text messages more expressive
 
 
-<h2 class="topmargin">Research Interests</h2>
----
-The following section contains topics and areas that I am interested in.
+<h2 class="topmargin">MS projects</h2>
 
-<h4 class="subheading">Deep reinforcement learning</h4>
-* The <a href="https://github.com/mila-iqia/babyai/tree/iclr19" target="_blank">BabyAI platform</a> (see <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">paper</a> here), imitation learning, and grounded language learning with DL. The BabyAI platform is a testbed for improving the sample efficiency of deep RL algorithms with the goal of making dramatic advances in grounded language learning.
-* I've reproduced the sample efficiency results posted in Table 3 of the <a href="https://openreview.net/forum?id=rJeXCo0cYX" target="_blank">BabyAI</a> paper for imitation learning from bot.
-<br />
-
-<h4 class="subheading">Neural networks</h4>
-* Sequence to sequence RNN models for machine translation (pytorch)
-* Transformers for neural machine translation
-* Prototypical networks for few-shot classification
-* Upcoming: graph neural networks
-
-<h2 class="topmargin">Projects</h2>
-
-The following section contains my (mostly completed) projects, organized by topic/area of data science.
+The following section contains some of my projects from my previous MS program, organized by topic and semester.
 
 ### Deep Learning
 ---
@@ -67,7 +59,6 @@ The following section contains my (mostly completed) projects, organized by topi
 * **Description**: The objective of this project is to predict the presence of specific cloud types in satellite images. However, this is not a standard object detection challenge because each image may contain multiple labels and multiple classes *that are overlapping*. That is, one training image may have an area that is labeled as 2 or more distinct classes. So this is the main challenge: how to deal with overlapping labels for objects that have indefinite shapes (like clouds).
 * **Dataset**: Data is from <a href="https://www.kaggle.com/c/understanding_cloud_organization/overview" target="_blank">this kaggle competition</a>. Dataset consists of ~9,300 unique photos. 5,600 in training, 3,700 in test.
 * **Packages/languages**: Convolutional neural network written in Python + Keras + Tensorflow. Trained on GPU on Kaggle.
-* **<font color="red">Work in progress</font>**
 
 
 #### <a href="https://github.com/ebolotin6/iic_project/blob/master/notebooks/kaggle_notebooks/resnet_iic_kaggle.ipynb" target="_blank"><strong>Nature scene image classification</strong></a> (Summer 2019)

@@ -6,6 +6,8 @@ permalink: /portfolio/
 ---
 
 <h2 class="notopmargin">Recent work</h2>
+---
+
 * Created open-source Python package entitled *SimplyRL* for writing, tuning and benchmarking RL algorithms (to be released publicly in early 2021).
 * Recently: solving and benchmarking <a href="https://gym.openai.com/envs/#classic_control" target="_blank">OpenAI gym classical control</a> problems with deep RL algorithms. All environments involve non-trivial, continuous action-spaces. Tests are being conducted in Python framework named above (*SimplyRL*). Algorithms so-far implemented include: DDPG, A2C, off-policy policy gradient, and others.
 * Created homeworks and labs for introductory course on reinforcement learning.

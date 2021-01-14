@@ -17,21 +17,21 @@ permalink: /portfolio/
 ---
 
 * Completed master's thesis on representation learning and face generation with variational autoencoders (VAE).
-* Included custom implementations of *DFC-VAE*, *Beta-VAE*, *VAE-GAN*, and researched implementing Google's DRAW architecture (Deep Recurrent Attention Writer)
-* Developed (in Pytorch):
-	* Sequence to sequence RNN models for machine translation (pytorch)
+* Included custom implementations of *<a href="https://arxiv.org/pdf/1906.01984.pdf" target="_blank">DFC-VAE</a>*, *<a href="https://openreview.net/forum?id=Sy2fzU9gl" target="_blank">Beta-VAE</a>*, *<a href="https://arxiv.org/pdf/1512.09300.pdf" target="_blank">VAE-GAN</a>*, and researched implementing Google's <a href="https://arxiv.org/pdf/1502.04623.pdf" target="_blank">DRAW</a> architecture (Deep Recurrent Attention Writer)
+* Developed neural nets (in Pytorch) for various tasks:
+	* Sequence-to-sequence RNN models for neural machine translation
 	* Transformers for neural machine translation
 	* Prototypical networks for few-shot classification
 
 <h4 class="subheading">Certifications:</h4>
+* Completed **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. 
 * Completed course 1 of <a href="https://www.coursera.org/specializations/aml" target="_blank">Advanced Machine Learning Specialization</a> from the Higher School of Economics in Moscow (National Research University). 
 	* Demo notebooks <a href="https://github.com/ebolotin6/HSE_public" target="_blank">here</a> 
 	* Completed with honors: certificate <a href="https://www.coursera.org/account/accomplishments/certificate/YP8PCGTZ249L" target="_blank">here</a>
-* Completed **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. 
 
-As part of deep learning specialization, I completed projects on:
+As part of the deep learning specialization above, I completed projects on:
 
-<strong>Convolutional networks</strong>
+<strong>Convolutional networks:</strong>
 * Art generation with neural style transfer
 * Face recognition
 * YOLO for autonomous driving (car detection)
@@ -47,9 +47,9 @@ As part of deep learning specialization, I completed projects on:
 
 <h2 class="topmargin">MS projects</h2>
 
-The following section contains some of my projects from my previous MS program, organized by topic and semester.
+The following section contains some projects from my MS program, organized by topic and semester. <font color="blue">Please let me know if you want read access, as these projects are stored in private github repos</font>.
 
-### Deep Learning
+### DL & ML projects
 ---
 
 #### <a href="https://github.com/ebolotin6/DS745/blob/master/project_3/Project_3_Bolotin.pdf" target="_blank"><strong>New York Times Comments Analysis</strong></a> (Fall 2019)
@@ -58,7 +58,7 @@ The following section contains some of my projects from my previous MS program, 
 * **Packages/languages**: R and Keras.
 
 #### <strong>Object detection: understanding clouds from satellite Images</strong> (Fall 2019)
-* **Description**: The objective of this project is to predict the presence of specific cloud types in satellite images. However, this is not a standard object detection challenge because each image may contain multiple labels and multiple classes *that are overlapping*. That is, one training image may have an area that is labeled as 2 or more distinct classes. So this is the main challenge: how to deal with overlapping labels for objects that have indefinite shapes (like clouds).
+* **Description**: The objective of this project is to predict the presence of specific cloud types in satellite images. Each image may contain multiple cloud types that that are overlapping. That is, one training image may have an area that is labeled as 2 or more distinct classes. So this is the main challenge: how to deal with overlapping labels for objects that have indefinite shapes (like clouds).
 * **Dataset**: Data is from <a href="https://www.kaggle.com/c/understanding_cloud_organization/overview" target="_blank">this kaggle competition</a>. Dataset consists of ~9,300 unique photos. 5,600 in training, 3,700 in test.
 * **Packages/languages**: Convolutional neural network written in Python + Keras + Tensorflow. Trained on GPU on Kaggle.
 
@@ -68,14 +68,11 @@ The following section contains some of my projects from my previous MS program, 
 * **Dataset**: <a href="https://www.kaggle.com/puneet6060/intel-image-classification" target="_blank">Intel image competition</a> based dataset of 25k images labeled under 6 categories.
 * **Accuracy**: 89% with 15 epochs (and possibly higher with more epochs)
 * **Packages/languages**: Both pre-trained and original neural networks created for this purpose. Convolutional neural networks written in Python + Keras + Tensorflow. Trained on Kaggle with GPU.
-<br /><br />
+<br />
 
-### Machine Learning
-___
 #### <a href="https://github.com/ebolotin6/DS740_portfolio/blob/master/final_project/Final_Project.pdf" target="_blank"><strong>Classification: predicting whether it will rain tomorrow</strong></a> (Summer 2019)
-* **Description**: The objective of this project is to use non-neural ML methods to predict the occurrence of rain. See executive summary in repo above for high-level details.
+* **Description**: The purpose of this project is predict whether it will rain tomorrow in Australia.
 * **Dataset dimensions**: 142k observations x 23 predictors
-* Purpose of this project is predict whether it will rain tomorrow in Australia.
 * **Methods used**: random forest, SVM, LDA (linear discriminant analysis), and a neural network. Recursive feature elimination with random forest used for subset selection.
 * **Accuracy**: 85%
 * **Language**: R
@@ -89,7 +86,7 @@ ___
 * **Language**: R
 
 #### <a href="https://github.com/ebolotin6/DS705_loan_defaults/blob/master/Project_Loan_Defaults.pdf" target="_blank"><strong>Classification: predicting loan defaults with logistic regression</strong></a> (Spring 2019)
-* **Description**: The objective of this project is to improve bank margins by optimizing loan-making decisions. Said differently: the goal is to predict the financial risk that each customer poses to the bank.  See project pdf at link above for details.
+* **Description**: The objective of this project is to improve bank margins by optimizing loan-making decisions. See project pdf at link above for details.
 * **Dataset dimensions**: The dataset used to train this model includes 50,000 loans and 30 variables.
 * **Methods used**: Logistic modeling
 * **Accuracy**: 80%
@@ -105,7 +102,7 @@ ___
 ---
 
 #### <a href="https://github.com/ebolotin6/DS775/blob/master/project_3/Project_3_Report.ipynb" target="_blank"><strong>Simulation and Decision Analysis</strong></a> (Fall 2019)
-* **Description**: The objective of this project is to perform simulation and decision analysis to determine the best decision (among a set of alternatives) for a given business scenario.
+* **Description**: The objective of this project is to perform simulation and decision analysis to determine the business decision for a given scenario.
 * **Packages/languages**: Python and ORtools (Google library)
 
 #### <a href="https://github.com/ebolotin6/DS775/blob/master/project_2/Project_02_Homework/Project_2_Report.ipynb" target="_blank"><strong>Hyperparameter tuning with Scikit</strong></a> (Fall 2019)

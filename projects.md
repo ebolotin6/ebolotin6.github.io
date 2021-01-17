@@ -47,7 +47,7 @@ As part of the deep learning specialization above, I completed projects on:
 
 <h2 class="topmargin">MS projects</h2>
 
-The following section contains some projects from my MS program, organized by topic and semester. <font color="blue">Please let me know if you want read access, as these projects are stored in private github repos</font>.
+The following section contains some projects from my MS program, organized by topic and semester.
 
 ### DL & ML projects
 ---

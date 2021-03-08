@@ -8,20 +8,16 @@ permalink: /portfolio/
 <h2 class="notopmargin">Recent work</h2>
 ---
 
-* Created open-source Python package entitled *SimplyRL* for writing, tuning and benchmarking RL algorithms (to be released publicly in early 2021).
-* Recently: solving and benchmarking <a href="https://gym.openai.com/envs/#classic_control" target="_blank">OpenAI gym classical control</a> problems with deep RL algorithms. All environments involve non-trivial, continuous action-spaces. Tests are being conducted in Python framework named above (*SimplyRL*). Algorithms so-far implemented include: DDPG, A2C, off-policy policy gradient, and others.
-* Created homeworks and labs for introductory course on reinforcement learning.
-* Created 3-wheel robot RL environment which uses 5-dimensional state-space and 2-dimensional action-space.
-
-<h2 class="notopmargin">Prior work</h2>
----
-
-* Completed master's thesis on representation learning and face generation with variational autoencoders (VAE).
-* Included custom implementations of *<a href="https://arxiv.org/pdf/1906.01984.pdf" target="_blank">DFC-VAE</a>*, *<a href="https://openreview.net/forum?id=Sy2fzU9gl" target="_blank">Beta-VAE</a>*, *<a href="https://arxiv.org/pdf/1512.09300.pdf" target="_blank">VAE-GAN</a>*, and researched implementing Google's <a href="https://arxiv.org/pdf/1502.04623.pdf" target="_blank">DRAW</a> architecture (Deep Recurrent Attention Writer)
+* Completed master's thesis on representation learning and face generation with variational autoencoders (VAE). Pytorch used for all neural network architectures.
+	* Included custom implementations of *<a href="https://arxiv.org/pdf/1906.01984.pdf" target="_blank">DFC-VAE</a>*, *<a href="https://openreview.net/forum?id=Sy2fzU9gl" target="_blank">Beta-VAE</a>*, *<a href="https://arxiv.org/pdf/1512.09300.pdf" target="_blank">VAE-GAN</a>*, and researched implementing Google's <a href="https://arxiv.org/pdf/1502.04623.pdf" target="_blank">DRAW</a> architecture (Deep Recurrent Attention Writer)
 * Developed neural nets (in Pytorch) for various tasks:
 	* Sequence-to-sequence RNN models for neural machine translation
 	* Transformers for neural machine translation
 	* Prototypical networks for few-shot classification
+* Created Python autograder for jupyter notebook assignments
+* Created Python package for benchmarking reinforcement learning algorithms
+* Benchmarking <a href="https://gym.openai.com/envs/#classic_control" target="_blank">OpenAI gym classical control</a> problems with deep RL algorithms. All environments involve non-trivial, continuous action-spaces. Tests are being conducted in Python framework named above (*SimplyRL*). Algorithms so-far implemented include: DDPG, A2C, off-policy policy gradient, and others.
+* Created homeworks and labs for introductory course on reinforcement learning.
 
 <h4 class="subheading">Certifications:</h4>
 * Completed **Deep Learning Specialization** from Coursera. This is a <a href="https://www.coursera.org/specializations/deep-learning#courses" target="_blank">5-course</a> specialization on deep learning, which teaches both theory and application of deep learning. This specialization is taught by Prof. Andrew Ng (Adjunct Professor at Stanford University, who was also founding lead at Google Brain). See my certificate <a href="/DL_Specialization.pdf" target="_blank">here</a>. 
